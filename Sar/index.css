@@ -158,3 +158,10 @@ body {
   width: 15px;
 }
 /* End Sidebar */
+
+body {
+  background-image: url('background.jpg'); /* Replace 'background-image.jpg' with the path to your desired background image */
+  background-size: cover; /* Cover the entire viewport with the background image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+}
+
